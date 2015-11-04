@@ -1,0 +1,10 @@
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\Site\bin\Site.dll.config
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\Site\bin\Site.dll
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\Site\bin\Site.pdb
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\Site\obj\Debug\Site.dll
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\Site\obj\Debug\Site.pdb
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\Site\bin\DAL.dll
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\Site\bin\DAL.pdb
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\Site\bin\Util.dll
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\Site\bin\Util.pdb

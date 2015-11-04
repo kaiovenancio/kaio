@@ -1,0 +1,5 @@
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\Util\bin\Debug\Util.dll
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\Util\bin\Debug\Util.pdb
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\Util\obj\Debug\Util.dll
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\Util\obj\Debug\Util.pdb

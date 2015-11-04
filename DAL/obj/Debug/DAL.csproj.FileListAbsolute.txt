@@ -1,0 +1,5 @@
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\DAL\bin\Debug\DAL.dll
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\DAL\bin\Debug\DAL.pdb
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\DAL\obj\Debug\DAL.dll
+C:\Users\Kaio Venancio\Desktop\AutenticacaodeUsuario\DAL\obj\Debug\DAL.pdb
